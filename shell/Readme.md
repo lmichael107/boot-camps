@@ -697,7 +697,7 @@ also use the *pipe* (`|`) more after the break.
 **Exercises**
 
 Let's clean up this data! Navigate to the `data` directory. Use a single 
-`find` command to perform the below exercises. Number 2 does not require `find`:
+`find` command to perform each of the below exercises. Number 2 does not require `find`:
 
 1.  Find any file whose name is "NOTES" within `data` and its subdirectories, and delete it 
 
